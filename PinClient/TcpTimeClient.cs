@@ -11,7 +11,7 @@ namespace PinClient
     public class TcpTimeClient
     {
         private const int portNum = 13;
-        private const string hostName = "localhost";//"host.contoso.com";
+        private const string hostName = "192.168.0.122";//"host.contoso.com";
 
         public static int Init(String[] args)
         {
