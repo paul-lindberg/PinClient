@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient\\PinClient.csproj": {}
+    "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient\\PinClient.csproj": {
+    "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient\\PinClient.csproj",
+        "projectUniqueName": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient.csproj",
         "projectName": "PinClient",
-        "projectPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient\\PinClient.csproj",
+        "projectPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient\\obj\\",
+        "outputPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
