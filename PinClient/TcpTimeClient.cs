@@ -7,7 +7,6 @@ using System.Net.Sockets;
 
 namespace PinClient
 {
-
     public class TcpTimeClient
     {
         private const int portNum = 13;

@@ -1,3 +1,4 @@
-﻿using PinClient;
+﻿using ConsoleClient;
 
-TcpTimeClient.Init(null);
+ClientProgram.Main();
+//TcpTimeClient.Init(null);

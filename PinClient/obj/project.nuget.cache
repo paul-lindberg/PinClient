@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VQxlhmAD6lUS4V9HZdx7ts5xuR6Lt0EB99PgXcSfoSgqXagjUHqF14tu3X5PIJezCXCELdioDWDFfxO9+VWAVg==",
+  "dgSpecHash": "PHqjjqG0PbHCzsPdotV0ORdD6NUJidZ+NCqdw4FKC5P2ZTpQsfs8FqgmDbZVNmAU5ZJNvNa9aCrPSz+bQAE1mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\PinClient\\PinClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }

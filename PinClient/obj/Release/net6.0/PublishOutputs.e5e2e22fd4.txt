@@ -1,0 +1,16 @@
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ConsoleClient.exe
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\PinClient.exe
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ConsoleClient.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ConsoleClient.runtimeconfig.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\PinClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\PinClient.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\PinClient.runtimeconfig.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\PinClient.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ClientHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ConsoleClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\StandardClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ConsoleClient.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\ClientHost.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Publish\StandardClient.pdb

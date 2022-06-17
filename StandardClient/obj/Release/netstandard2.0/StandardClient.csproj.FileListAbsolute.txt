@@ -1,0 +1,10 @@
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\bin\Release\netstandard2.0\StandardClient.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\bin\Release\netstandard2.0\StandardClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\bin\Release\netstandard2.0\StandardClient.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.csproj.AssemblyReference.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.AssemblyInfoInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.AssemblyInfo.cs
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\StandardClient\obj\Release\netstandard2.0\StandardClient.pdb

@@ -1,11 +1,116 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "System.Text.Json/4.7.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        }
+      },
+      "ClientHost/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Helper": "1.0.0",
+          "StandardClient": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClientHost.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientHost.dll": {}
+        }
+      },
+      "ConsoleClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ClientHost": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleClient.dll": {}
+        }
+      },
+      "Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.Text.Json": "4.7.2"
+        },
+        "compile": {
+          "bin/placeholder/Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helper.dll": {}
+        }
+      },
+      "StandardClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/StandardClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StandardClient.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "System.Text.Json/4.7.2": {
+      "sha512": "TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "type": "package",
+      "path": "system.text.json/4.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/netcoreapp3.0/System.Text.Json.dll",
+        "lib/netcoreapp3.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.4.7.2.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "ClientHost/1.0.0": {
+      "type": "project",
+      "path": "../ClientHost/ClientHost.csproj",
+      "msbuildProject": "../ClientHost/ClientHost.csproj"
+    },
+    "ConsoleClient/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleClient/ConsoleClient.csproj",
+      "msbuildProject": "../ConsoleClient/ConsoleClient.csproj"
+    },
+    "Helper/1.0.0": {
+      "type": "project",
+      "path": "../Helper/Helper.csproj",
+      "msbuildProject": "../Helper/Helper.csproj"
+    },
+    "StandardClient/1.0.0": {
+      "type": "project",
+      "path": "../StandardClient/StandardClient.csproj",
+      "msbuildProject": "../StandardClient/StandardClient.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ConsoleClient >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\super\\.nuget\\packages\\": {},
@@ -38,7 +143,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\ConsoleClient\\ConsoleClient.csproj": {
+              "projectPath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\ConsoleClient\\ConsoleClient.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

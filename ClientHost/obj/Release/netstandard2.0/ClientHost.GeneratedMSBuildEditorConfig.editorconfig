@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ClientHost
+build_property.ProjectDir = C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\

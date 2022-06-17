@@ -28,3 +28,16 @@ C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\obj\Debug\net6.
 C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\obj\Debug\net6.0\PinClient.pdb
 C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\obj\Debug\net6.0\PinClient.genruntimeconfig.cache
 C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\obj\Debug\net6.0\ref\PinClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ConsoleClient.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ConsoleClient.runtimeconfig.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ConsoleClient.runtimeconfig.dev.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ConsoleClient.exe
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ClientHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ConsoleClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\StandardClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ConsoleClient.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\ClientHost.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\bin\Debug\net6.0\StandardClient.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\PinClient\obj\Debug\net6.0\PinClient.csproj.CopyComplete

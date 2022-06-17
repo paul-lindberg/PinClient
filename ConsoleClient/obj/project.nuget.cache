@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "psZzeLFUHQF0b/c/1uObUYXE5p5EwNT8Kcp2UVwCvGYgcbNWWbI7iXxlv1G6FyaixaZE17QlwZZlmHbl1Ngg+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\super\\Documents\\RaspberryPi Server\\pin-client\\ConsoleClient\\ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

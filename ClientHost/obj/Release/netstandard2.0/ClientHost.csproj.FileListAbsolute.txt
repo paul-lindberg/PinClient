@@ -1,0 +1,15 @@
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\ClientHost.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\ClientHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\ClientHost.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\StandardClient.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\bin\Release\netstandard2.0\StandardClient.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.csproj.AssemblyReference.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.AssemblyInfoInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.AssemblyInfo.cs
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.csproj.CopyComplete
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\ClientHost\obj\Release\netstandard2.0\ClientHost.pdb

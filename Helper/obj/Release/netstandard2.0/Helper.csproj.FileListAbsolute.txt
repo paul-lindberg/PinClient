@@ -1,0 +1,10 @@
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\bin\Release\netstandard2.0\Helper.deps.json
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\bin\Release\netstandard2.0\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\bin\Release\netstandard2.0\Helper.pdb
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.csproj.AssemblyReference.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.AssemblyInfoInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.AssemblyInfo.cs
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.dll
+C:\Users\super\Documents\RaspberryPi Server\pin-client\Helper\obj\Release\netstandard2.0\Helper.pdb
